@@ -1,13 +1,13 @@
 # curitiba-streets
 how many streets in downtown is oneway
 
-### Bicycle related policies
+### analysis for bicycle related issues
 
 It's often argued that cyclists uses sidewalks and streets in the opposite direction. However, in a broad perspective, the city of Curitiba often transform street into oneway to increase its capacity for motorised vehicles. Previously, it was possible to choose the direction from the middle of the block; Now, it almost all situation, the cyclist would have to turn around the block to get to the destiation. 
 
 #### Objective
 
-The idea of this analysis is to shown the options cyclists have to opt for the directions without having to walk the bike, cycle in the sidewalk or getting in the opposite direction of the streets 
+The idea of this analysis is to shown options for cyclists without having to walk the bike, cycle in the sidewalk or getting in the opposite-flow direction 
 
 ### First map
 
